@@ -14,10 +14,10 @@
     "integrity_network_blacklisted": "Bütünlük kontrolleri, kara listeye alınan bir ağı kullandığınızı saptadı.",
     "integrity_role_not_given": "Bütünlük kontrolleri, kimliğinizi doğruladı ancak size istenilen rolü veremedi.",
     "integrity_role_given": "Bütünlük kontrolleri, kimliğinizi başarıyla doğruladı. Welcome t",
-    "integrity_ratelimited": "Integrity checks are currently under going heavy load due to multiple users authenticating. Please try again in a couple of seconds",
+    "integrity_ratelimited": "Birden fazla kişi kimlik doğrulaması yaptığı için bütün kontrolleri yüksek ağ trafiği altında. Lütfen bir kaç saniye sonra tekrar deneyiniz",
     "integrity_request_error": "Bütünlük kontrolleri, arka planda bir kaç sorunla karşılaştı. Eğer bu devam ederse bize ulaşın",
     "integrity_request_expired": "Bütünlük kontrolleri, isteğinizin süresinin dolması nedeniyle isteğinizi gerçekleştiremedi",
-    "integrity_embed_title": "Güvenlik Dildirimleri",
+    "integrity_embed_title": "Güvenlik Bildirimleri",
     "integrity_log_title": "Sensory İnsan Doğrulaması",
     "integrity_embed_complete": "Tamamlandı",
     "integrity_embed_blacklisted_account": "Kara listeye alınmış hesap",
@@ -28,7 +28,7 @@
     "integrity_embed_security_triggered": "Güvenlik tetiklendi",
     "integrity_embed_vpn_detected": "PROXY/VPN Saptandı",
     "integrity_embed_integrity_blacklisted": "Bütünlük Kara listeye alınmış",
-    "integrity_embed_promotion": "1 Numaralı güvenliğimiz ile topluluğunuzu geliştirin.",
+    "integrity_embed_promotion": "1. Numaralı güvenliğimiz ile topluluğunuzu geliştirin.",
     "integrity_embed_process_expired": "İsteğin süresi dolmuş",
     "integrity_embed_origin": "Kaynak",
     "integrity_embed_status": "Durum",
@@ -40,6 +40,6 @@
     "integrity_embed_button_open_hash": "Hash'i Aç",
     "integrity_embed_button_open_profile": "Profili Aç",
     "integrity_embed_button_file_report": "Dosya Raporlama",
-    "integrity_embed_failed_verification": "Toplulukta doğrulanırken sorun mu yaşıyorsun? Yardım için buradan bize ulaşın: {{url}}",
-    "integrity_embed_success_verification": "Sorunsuz bir şekilde doğrulandınız. Sensory'e oy vererek bize destek çıkabilirsiniz"
+    "integrity_embed_failed_verification": "Toplulukta kimlik doğrulamasında sorun mu yaşıyorsun? Yardım için buradan bize ulaşın: {{url}}",
+    "integrity_embed_success_verification": "Sorunsuz bir şekilde kimliğin doğrulandı. Sensory'e oy vererek bize destek çıkabilirsiniz"
 }
