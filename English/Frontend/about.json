@@ -3,7 +3,7 @@
     "question_one_title": "Sensory nedir ve neden oraya çıktı?",
     "question_one_description": "Sensory, Discord topluluklarına yapılan otomatik saldırıları önlemek için yaratılmış bir güvenlik botudur. Çoğu güvenlik botunun aksine, biz güvenlik açıklarını durdurmaya ve olası kimlik eşleşmelerini önlemeye yüksek değer veriyoruz ve kötü niyetli etkinlikleri engelleme adı altında ne yaptığı belli olmayan güvenlik botlarını gördükten sonra Sensory'yi tasarladık ",
     "question_two_title": "Sensory'yi diğer güvenlik botlarından ayıran şey nedir?",
-    "question_two_description": "Gizlilik ve Mahremiyet. Sensory servislerine yapılan her bağlantı hashlenmiş ve ihlallere karşı korunmuştur, senin ve üylerinin olası herhangi bir kimlik eşleşmesinden korumak için. Olası tarayıcı .",
+    "question_two_description": "Gizlilik ve Mahremiyet. Sensory servislerine yapılan her bağlantı hashlenmiş ve saldırılara karşı korunmuştur, senin ve üylerinin olası herhangi bir kimlik eşleşmesinden korumak için. Olası tarayıcı .",
     "question_three_title": "Is there any kind of privacy for sensory?",
     "question_three_description": "Sensory does not retain records of how it handles activity or knowledge of any ip-address because each ip-address is hashed and cached for caching purposes only when resolving in a human verification to avoid massive amounts of requests hitting our api. Server ids, Member ids, IP addresses, and Browser fingerprints are all hashed and protected.",
     "question_four_title": "Is there any data retained by sensory after a delete request?",
