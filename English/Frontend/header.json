@@ -1,8 +1,8 @@
 {
-    "commands_title": "Commands",
-    "documentation_title": "Documentation",
-    "support_server_title": "Support Server",
-    "service_status_title": "Status",
-    "invite_sensory_title": "Invite",
-    "login_with_discord": "Login with Discord"
+    "commands_title": "Komutlar",
+    "documentation_title": "Belgeler",
+    "support_server_title": "Destek Sunucusu",
+    "service_status_title": "Durum",
+    "invite_sensory_title": "Davet",
+    "login_with_discord": "Discord ile giriş yapın"
 }
