@@ -39,7 +39,7 @@
     "integrity_embed_verified_manually": "Manual Olarak Doğrulanmış",
     "integrity_embed_button_open_hash": "Şifrelemeyi Aç",
     "integrity_embed_button_open_profile": "Profili Aç",
-    "integrity_embed_button_file_report": "Dosya Raporlama",
+    "integrity_embed_button_file_report": "Dosyayı Raporla",
     "integrity_embed_failed_verification": "Toplulukta kimlik doğrulamasında sorun mu yaşıyorsun? Yardım için buradan bize ulaşın: {{url}}",
     "integrity_embed_success_verification": "Sorunsuz bir şekilde kimliğin doğrulandı. Sensory'e oy vererek bize destek çıkabilirsiniz"
 }
