@@ -1,15 +1,15 @@
 {
-    "frequesntly_asked_questions": "Sıkça sorulan sorular",
-    "question_one_title": "Sensory nedir ve neden oraya çıktı?",
+    "frequesntly_asked_questions": "Sıkça Sorulan Sorular",
+    "question_one_title": "Sensory nedir ve nasıl oraya çıktı?",
     "question_one_description": "Sensory, Discord topluluklarına yapılan otomatik saldırıları önlemek için yaratılmış bir güvenlik botudur. Çoğu güvenlik botunun aksine, biz güvenlik açıklarını durdurmaya ve olası kimlik eşleşmelerini önlemeye yüksek değer veriyoruz ve kötü niyetli etkinlikleri engelleme adı altında ne yaptığı belli olmayan güvenlik botlarını gördükten sonra Sensory'yi tasarladık ",
     "question_two_title": "Sensory'yi diğer güvenlik botlarından ayıran şey nedir?",
-    "question_two_description": "Gizlilik ve Mahremiyet. Sensory servislerine yapılan her bağlantı hashlenmiş ve saldırılara karşı korunmuştur, senin ve üylerinin olası herhangi bir kimlik eşleşmesinden korumak için. Olası tarayıcı .",
-    "question_three_title": "Is there any kind of privacy for sensory?",
-    "question_three_description": "Sensory does not retain records of how it handles activity or knowledge of any ip-address because each ip-address is hashed and cached for caching purposes only when resolving in a human verification to avoid massive amounts of requests hitting our api. Server ids, Member ids, IP addresses, and Browser fingerprints are all hashed and protected.",
-    "question_four_title": "Is there any data retained by sensory after a delete request?",
-    "question_four_description": "When sensory receives a wipe deletion request, it will wipe any trace from its database, including any cached data, and send it to the void, where no one, not even the deepest mosnters, will be able to view it. All of the data that is erased is hurled into the never-ending void. By contacting us, you can request that data be removed if you have a valid cause or if you are under the age of 13.",
-    "question_five_title": "Human verification false flagging as proxy / vpn",
-    "question_five_description": "Sensory will normally flag you as a proxy or VPN if your ISP is unknown to our resolver, which is highly rare. Send us your hash signature, which is listed below for each human verification, if you believe you're on a home connection. If you provide us with your particular IP address, we will delete your support ticket.",
-    "question_six_title": "Does Sensory sell or distrubute your sensitive data?",
-    "question_six_description": "Sensory does not sell sensitive information, and all sensitive information is hashed or encrypted before being kept in our systems to prevent data breaches."
+    "question_two_description": "Gizlilik ve Mahremiyet. Sensory servislerine yapılan her bağlantı şifrenelmiş ve saldırılara karşı korunmuştur, senin ve üylerinin olası herhangi bir kimlik eşleşmesinden korumak için. Olası tarayıcı .",
+    "question_three_title": "Sensory için herhangi bir gizlilik varmı?",
+    "question_three_description": "Sensory herhangi bir internet protokol (IP) adresini veya yapılan herhangi bir aktivitenin kaydını tutmaz ve kimin olduğu belirlenemez çünkü her internet protokol (IP) adresi şifrelenmiştir ve insan doğrulama servislerimize olağanüstü trafik ile saldırı yapılmasını engellemek için internet protokol adresleri önbelleğe gizlenmiştir. Önbelleğe şifrelenip gizlenen bilgiler şunlardan (Topluluk kimlikleri (ID) Kullanıcı kimlikleri (ID) İnternet Protokol (IP) Adresleri ve Tarayıcı parmak izleri) ibarettir.",
+    "question_four_title": "Bir istek silindikten sonra Sensory'ide herhangi bir bilgi kalıyormu?",
+    "question_four_description": "Sensory bir istek silme talebi aldığı zaman, Bütün izleri veri tabanından (DB) silecektir, önbelleğe alınan bilgiler dahil, ve sonsuzluğa gönderecektir, hiç kimsenin, en derindeki canavarların bile, göremeyeceği bir yere. Bütün bilgiler silinip asla bitmeyen bir sonsuzluğa gönderilecektir. Eğer 13 yaşın altındaysanız veya geçerli bir nedeniniz varsa bize ulaşarak bilgilerinizi sildirebilirsiniz.",
+    "question_five_title": "İnsan Doğrulaması VPN/PROXY kullandığımı sanıyor ama kullanmıyorum.",
+    "question_five_description": "Sensory normalde VPN/PROXY tespitini eğer internet sağlayıcınız belli değilse tespit edebilir, yüksek derece nadir olasılğı vardır. Aksi takdirde Bize şifrelenmiş parmak izinizi gönderin, Her İnsan Doğrulamasının altında, Eğer bir Ev bağlantısında iseniz. Bize belirli bir İnternet Protokol (IP) adresi sağlarsanız, size gerekli yardımı sunup yardım biletinizi sileceğiz.",
+    "question_six_title": "Sensory hassas bilgilerimizi satıp dağıtıyormu? ",
+    "question_six_description": "Sensory hassas bilgilerinizi satmaz, Ve bütün hassas bilgiler gelecekte servislerimiz olağan üstü bir saldırıya uğrarsa diye veri tabanlarımıza girmeden önce şifrelenip enkryptleniyor."
 }
